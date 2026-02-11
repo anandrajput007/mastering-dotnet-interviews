@@ -10,16 +10,16 @@ The goal is to build strong conceptual clarity for **Mid-Level, Senior, and Arch
 
 ## 📚 Topics Covered
 
-1. C# Fundamentals & Advanced  
-2. .NET Core & ASP.NET Core  
-3. LINQ  
-4. Entity Framework  
-5. Microservices  
-6. Design Patterns  
-7. SOLID Principles  
-8. Multithreading & Async/Await  
-9. SQL & Performance  
-10. System Design (Senior Level)
+1. [C# Fundamentals & Advanced](#c-fundamentals--advanced)
+2. [.NET Core & ASP.NET Core](#net-core--aspnet-core)
+3. [LINQ](#linq)
+4. [Entity Framework](#entity-framework)
+5. [Microservices](#microservices)
+6. [Design Patterns](#design-patterns)
+7. [SOLID Principles](#solid-principles)
+8. [Multithreading & Async/Await](#multithreading--asyncawait)
+9. [SQL & Performance](#sql--performance)
+10. [System Design (Senior Level)](#system-design-senior-level)
 
 ---
 
